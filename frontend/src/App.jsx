@@ -43,7 +43,7 @@ function Workspace() {
   }, [logout])
 
   if (loading) {
-    return <div className="center-screen">Loading Parakh AI...</div>
+    return <div className="center-screen">Loading Dhadhor AI...</div>
   }
 
   if (!token) {

@@ -421,7 +421,7 @@ export default function StudentDashboard({ navigate }) {
               <div className="empty-state" style={{ marginBottom: '24px' }}>
                 <h3>Complete your first viva to unlock learning diagnostics</h3>
                 <p>
-                  As you answer oral questions, Parakh AI evaluates your conceptual accuracy, completeness, and clarity to detect weaknesses and tailor practice sessions.
+                  As you answer oral questions, Dhadhor AI evaluates your conceptual accuracy, completeness, and clarity to detect weaknesses and tailor practice sessions.
                 </p>
               </div>
             )}
